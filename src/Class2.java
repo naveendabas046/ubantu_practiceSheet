@@ -17,8 +17,8 @@ public class Class2 extends Class1{
 
 public static void main(String[] args) {
     System.out.println("class2 main program");
-    Class0 obj2 = new Class2();
-    obj2.m4();
+    Class2 obj2 = new Class2();
+    obj2.m2();
 }
     
 }
